@@ -21,7 +21,7 @@
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
 define('DB_NAME', 'tao-local');
-
+define("OTGS_DISABLE_AUTO_UPDATES", true);
 /** Имя пользователя MySQL */
 define('DB_USER', 'root');
 
